@@ -1,0 +1,1024 @@
+{
+ "id": "HKG55OM8UI",
+ "fps": {
+  "num": 30,
+  "den": 1
+ },
+ "display_ratio": {
+  "num": 16,
+  "den": 9
+ },
+ "pixel_ratio": {
+  "num": 1,
+  "den": 1
+ },
+ "width": 1280,
+ "height": 720,
+ "sample_rate": 44100,
+ "channels": 2,
+ "channel_layout": 3,
+ "settings": {},
+ "clips": [],
+ "effects": [],
+ "export_path": "",
+ "import_path": "C:/Users/HP/Desktop/PERSONAL DOC",
+ "files": [
+  {
+   "acodec": "",
+   "audio_bit_rate": 0,
+   "audio_stream_index": -1,
+   "audio_timebase": {
+    "den": 1,
+    "num": 1
+   },
+   "channel_layout": 4,
+   "channels": 0,
+   "display_ratio": {
+    "den": 5,
+    "num": 4
+   },
+   "duration": 3600.0,
+   "file_size": "2592000",
+   "fps": {
+    "den": 1,
+    "num": 30
+   },
+   "has_audio": false,
+   "has_single_image": true,
+   "has_video": true,
+   "height": 900,
+   "interlaced_frame": false,
+   "metadata": {},
+   "path": "PERSONAL DOC/1730614366471.jpg",
+   "pixel_format": -1,
+   "pixel_ratio": {
+    "den": 1,
+    "num": 1
+   },
+   "sample_rate": 0,
+   "top_field_first": true,
+   "type": "QtImageReader",
+   "vcodec": "",
+   "video_bit_rate": 0,
+   "video_length": "108000",
+   "video_stream_index": -1,
+   "video_timebase": {
+    "den": 30,
+    "num": 1
+   },
+   "width": 720,
+   "media_type": "image",
+   "id": "SLB9XWNZDX",
+   "image": "Save_assets/thumbnail/SLB9XWNZDX.png"
+  },
+  {
+   "acodec": "",
+   "audio_bit_rate": 0,
+   "audio_stream_index": -1,
+   "audio_timebase": {
+    "den": 1,
+    "num": 1
+   },
+   "channel_layout": 4,
+   "channels": 0,
+   "display_ratio": {
+    "den": 5,
+    "num": 4
+   },
+   "duration": 3600.0,
+   "file_size": "2592000",
+   "fps": {
+    "den": 1,
+    "num": 30
+   },
+   "has_audio": false,
+   "has_single_image": true,
+   "has_video": true,
+   "height": 900,
+   "interlaced_frame": false,
+   "metadata": {},
+   "path": "PERSONAL DOC/1730614370017.jpg",
+   "pixel_format": -1,
+   "pixel_ratio": {
+    "den": 1,
+    "num": 1
+   },
+   "sample_rate": 0,
+   "top_field_first": true,
+   "type": "QtImageReader",
+   "vcodec": "",
+   "video_bit_rate": 0,
+   "video_length": "108000",
+   "video_stream_index": -1,
+   "video_timebase": {
+    "den": 30,
+    "num": 1
+   },
+   "width": 720,
+   "media_type": "image",
+   "id": "EJEMKZRH65",
+   "image": "Save_assets/thumbnail/EJEMKZRH65.png"
+  },
+  {
+   "acodec": "",
+   "audio_bit_rate": 0,
+   "audio_stream_index": -1,
+   "audio_timebase": {
+    "den": 1,
+    "num": 1
+   },
+   "channel_layout": 4,
+   "channels": 0,
+   "display_ratio": {
+    "den": 16,
+    "num": 9
+   },
+   "duration": 3600.0,
+   "file_size": "2286144",
+   "fps": {
+    "den": 1,
+    "num": 30
+   },
+   "has_audio": false,
+   "has_single_image": true,
+   "has_video": true,
+   "height": 1008,
+   "interlaced_frame": false,
+   "metadata": {},
+   "path": "PERSONAL DOC/5d3f0735e0724cd5ab0e6ce5fb10e070_1734039761650.jpg",
+   "pixel_format": -1,
+   "pixel_ratio": {
+    "den": 1,
+    "num": 1
+   },
+   "sample_rate": 0,
+   "top_field_first": true,
+   "type": "QtImageReader",
+   "vcodec": "",
+   "video_bit_rate": 0,
+   "video_length": "108000",
+   "video_stream_index": -1,
+   "video_timebase": {
+    "den": 30,
+    "num": 1
+   },
+   "width": 567,
+   "media_type": "image",
+   "id": "00WBHGS25O",
+   "image": "Save_assets/thumbnail/00WBHGS25O.png"
+  },
+  {
+   "acodec": "",
+   "audio_bit_rate": 0,
+   "audio_stream_index": -1,
+   "audio_timebase": {
+    "den": 1,
+    "num": 1
+   },
+   "channel_layout": 4,
+   "channels": 0,
+   "display_ratio": {
+    "den": 119,
+    "num": 120
+   },
+   "duration": 3600.0,
+   "file_size": "2056320",
+   "fps": {
+    "den": 1,
+    "num": 30
+   },
+   "has_audio": false,
+   "has_single_image": true,
+   "has_video": true,
+   "height": 714,
+   "interlaced_frame": false,
+   "metadata": {},
+   "path": "PERSONAL DOC/8a726e08e4b94b65bba9d91e78505224_1734039783686.jpg",
+   "pixel_format": -1,
+   "pixel_ratio": {
+    "den": 1,
+    "num": 1
+   },
+   "sample_rate": 0,
+   "top_field_first": true,
+   "type": "QtImageReader",
+   "vcodec": "",
+   "video_bit_rate": 0,
+   "video_length": "108000",
+   "video_stream_index": -1,
+   "video_timebase": {
+    "den": 30,
+    "num": 1
+   },
+   "width": 720,
+   "media_type": "image",
+   "id": "7TFA4XI0IS",
+   "image": "Save_assets/thumbnail/7TFA4XI0IS.png"
+  }
+ ],
+ "duration": 300,
+ "scale": 1.0534549084534484,
+ "tick_pixels": 100,
+ "playhead_position": 0,
+ "profile": "HD 720p 30 fps",
+ "layers": [
+  {
+   "id": "L1",
+   "label": "",
+   "number": 1000000,
+   "y": 0,
+   "lock": false
+  },
+  {
+   "id": "L2",
+   "label": "",
+   "number": 2000000,
+   "y": 0,
+   "lock": false
+  },
+  {
+   "id": "L3",
+   "label": "",
+   "number": 3000000,
+   "y": 0,
+   "lock": false
+  },
+  {
+   "id": "L4",
+   "label": "",
+   "number": 4000000,
+   "y": 0,
+   "lock": false
+  },
+  {
+   "id": "L5",
+   "label": "",
+   "number": 5000000,
+   "y": 0,
+   "lock": false
+  }
+ ],
+ "markers": [
+  {
+   "position": 0.0,
+   "icon": "blue.png",
+   "id": "NGX7DG18Y9"
+  },
+  {
+   "position": 0.2,
+   "icon": "blue.png",
+   "id": "VF709M1MBY"
+  },
+  {
+   "position": 0.2,
+   "icon": "blue.png",
+   "id": "F1MVO757UB"
+  },
+  {
+   "position": 0.2,
+   "icon": "blue.png",
+   "id": "2JXIM8EO0S"
+  },
+  {
+   "position": 0.2,
+   "icon": "blue.png",
+   "id": "E0KFI4IVJI"
+  },
+  {
+   "position": 0.2,
+   "icon": "blue.png",
+   "id": "QXWQHL04N9"
+  },
+  {
+   "position": 0.2,
+   "icon": "blue.png",
+   "id": "BIQCZK1ZRY"
+  },
+  {
+   "position": 0.26666666666666666,
+   "icon": "blue.png",
+   "id": "RMRIJH6TUP"
+  }
+ ],
+ "progress": [],
+ "history": {
+  "undo": [
+   {
+    "type": "insert",
+    "key": [
+     "markers"
+    ],
+    "value": {
+     "position": 0.0,
+     "icon": "blue.png",
+     "id": "NGX7DG18Y9"
+    },
+    "partial": false,
+    "old_values": []
+   },
+   {
+    "type": "insert",
+    "key": [
+     "files"
+    ],
+    "value": {
+     "acodec": "",
+     "audio_bit_rate": 0,
+     "audio_stream_index": -1,
+     "audio_timebase": {
+      "den": 1,
+      "num": 1
+     },
+     "channel_layout": 4,
+     "channels": 0,
+     "display_ratio": {
+      "den": 5,
+      "num": 4
+     },
+     "duration": 3600.0,
+     "file_size": "2592000",
+     "fps": {
+      "den": 1,
+      "num": 30
+     },
+     "has_audio": false,
+     "has_single_image": true,
+     "has_video": true,
+     "height": 900,
+     "interlaced_frame": false,
+     "metadata": {},
+     "path": "PERSONAL DOC/1730614366471.jpg",
+     "pixel_format": -1,
+     "pixel_ratio": {
+      "den": 1,
+      "num": 1
+     },
+     "sample_rate": 0,
+     "top_field_first": true,
+     "type": "QtImageReader",
+     "vcodec": "",
+     "video_bit_rate": 0,
+     "video_length": "108000",
+     "video_stream_index": -1,
+     "video_timebase": {
+      "den": 30,
+      "num": 1
+     },
+     "width": 720,
+     "media_type": "image",
+     "id": "SLB9XWNZDX",
+     "image": "Save_assets/thumbnail/SLB9XWNZDX.png"
+    },
+    "partial": false,
+    "old_values": []
+   },
+   {
+    "type": "insert",
+    "key": [
+     "files"
+    ],
+    "value": {
+     "acodec": "",
+     "audio_bit_rate": 0,
+     "audio_stream_index": -1,
+     "audio_timebase": {
+      "den": 1,
+      "num": 1
+     },
+     "channel_layout": 4,
+     "channels": 0,
+     "display_ratio": {
+      "den": 5,
+      "num": 4
+     },
+     "duration": 3600.0,
+     "file_size": "2592000",
+     "fps": {
+      "den": 1,
+      "num": 30
+     },
+     "has_audio": false,
+     "has_single_image": true,
+     "has_video": true,
+     "height": 900,
+     "interlaced_frame": false,
+     "metadata": {},
+     "path": "PERSONAL DOC/1730614370017.jpg",
+     "pixel_format": -1,
+     "pixel_ratio": {
+      "den": 1,
+      "num": 1
+     },
+     "sample_rate": 0,
+     "top_field_first": true,
+     "type": "QtImageReader",
+     "vcodec": "",
+     "video_bit_rate": 0,
+     "video_length": "108000",
+     "video_stream_index": -1,
+     "video_timebase": {
+      "den": 30,
+      "num": 1
+     },
+     "width": 720,
+     "media_type": "image",
+     "id": "EJEMKZRH65",
+     "image": "Save_assets/thumbnail/EJEMKZRH65.png"
+    },
+    "partial": false,
+    "old_values": [
+     {
+      "acodec": "",
+      "audio_bit_rate": 0,
+      "audio_stream_index": -1,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "channel_layout": 4,
+      "channels": 0,
+      "display_ratio": {
+       "den": 5,
+       "num": 4
+      },
+      "duration": 3600.0,
+      "file_size": "2592000",
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "has_audio": false,
+      "has_single_image": true,
+      "has_video": true,
+      "height": 900,
+      "interlaced_frame": false,
+      "metadata": {},
+      "path": "PERSONAL DOC/1730614366471.jpg",
+      "pixel_format": -1,
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "sample_rate": 0,
+      "top_field_first": true,
+      "type": "QtImageReader",
+      "vcodec": "",
+      "video_bit_rate": 0,
+      "video_length": "108000",
+      "video_stream_index": -1,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "width": 720,
+      "media_type": "image",
+      "id": "SLB9XWNZDX"
+     }
+    ]
+   },
+   {
+    "type": "insert",
+    "key": [
+     "files"
+    ],
+    "value": {
+     "acodec": "",
+     "audio_bit_rate": 0,
+     "audio_stream_index": -1,
+     "audio_timebase": {
+      "den": 1,
+      "num": 1
+     },
+     "channel_layout": 4,
+     "channels": 0,
+     "display_ratio": {
+      "den": 16,
+      "num": 9
+     },
+     "duration": 3600.0,
+     "file_size": "2286144",
+     "fps": {
+      "den": 1,
+      "num": 30
+     },
+     "has_audio": false,
+     "has_single_image": true,
+     "has_video": true,
+     "height": 1008,
+     "interlaced_frame": false,
+     "metadata": {},
+     "path": "PERSONAL DOC/5d3f0735e0724cd5ab0e6ce5fb10e070_1734039761650.jpg",
+     "pixel_format": -1,
+     "pixel_ratio": {
+      "den": 1,
+      "num": 1
+     },
+     "sample_rate": 0,
+     "top_field_first": true,
+     "type": "QtImageReader",
+     "vcodec": "",
+     "video_bit_rate": 0,
+     "video_length": "108000",
+     "video_stream_index": -1,
+     "video_timebase": {
+      "den": 30,
+      "num": 1
+     },
+     "width": 567,
+     "media_type": "image",
+     "id": "00WBHGS25O",
+     "image": "Save_assets/thumbnail/00WBHGS25O.png"
+    },
+    "partial": false,
+    "old_values": [
+     {
+      "acodec": "",
+      "audio_bit_rate": 0,
+      "audio_stream_index": -1,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "channel_layout": 4,
+      "channels": 0,
+      "display_ratio": {
+       "den": 5,
+       "num": 4
+      },
+      "duration": 3600.0,
+      "file_size": "2592000",
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "has_audio": false,
+      "has_single_image": true,
+      "has_video": true,
+      "height": 900,
+      "interlaced_frame": false,
+      "metadata": {},
+      "path": "PERSONAL DOC/1730614366471.jpg",
+      "pixel_format": -1,
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "sample_rate": 0,
+      "top_field_first": true,
+      "type": "QtImageReader",
+      "vcodec": "",
+      "video_bit_rate": 0,
+      "video_length": "108000",
+      "video_stream_index": -1,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "width": 720,
+      "media_type": "image",
+      "id": "SLB9XWNZDX"
+     },
+     {
+      "acodec": "",
+      "audio_bit_rate": 0,
+      "audio_stream_index": -1,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "channel_layout": 4,
+      "channels": 0,
+      "display_ratio": {
+       "den": 5,
+       "num": 4
+      },
+      "duration": 3600.0,
+      "file_size": "2592000",
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "has_audio": false,
+      "has_single_image": true,
+      "has_video": true,
+      "height": 900,
+      "interlaced_frame": false,
+      "metadata": {},
+      "path": "PERSONAL DOC/1730614370017.jpg",
+      "pixel_format": -1,
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "sample_rate": 0,
+      "top_field_first": true,
+      "type": "QtImageReader",
+      "vcodec": "",
+      "video_bit_rate": 0,
+      "video_length": "108000",
+      "video_stream_index": -1,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "width": 720,
+      "media_type": "image",
+      "id": "EJEMKZRH65"
+     }
+    ]
+   },
+   {
+    "type": "insert",
+    "key": [
+     "files"
+    ],
+    "value": {
+     "acodec": "",
+     "audio_bit_rate": 0,
+     "audio_stream_index": -1,
+     "audio_timebase": {
+      "den": 1,
+      "num": 1
+     },
+     "channel_layout": 4,
+     "channels": 0,
+     "display_ratio": {
+      "den": 119,
+      "num": 120
+     },
+     "duration": 3600.0,
+     "file_size": "2056320",
+     "fps": {
+      "den": 1,
+      "num": 30
+     },
+     "has_audio": false,
+     "has_single_image": true,
+     "has_video": true,
+     "height": 714,
+     "interlaced_frame": false,
+     "metadata": {},
+     "path": "PERSONAL DOC/8a726e08e4b94b65bba9d91e78505224_1734039783686.jpg",
+     "pixel_format": -1,
+     "pixel_ratio": {
+      "den": 1,
+      "num": 1
+     },
+     "sample_rate": 0,
+     "top_field_first": true,
+     "type": "QtImageReader",
+     "vcodec": "",
+     "video_bit_rate": 0,
+     "video_length": "108000",
+     "video_stream_index": -1,
+     "video_timebase": {
+      "den": 30,
+      "num": 1
+     },
+     "width": 720,
+     "media_type": "image",
+     "id": "7TFA4XI0IS",
+     "image": "Save_assets/thumbnail/7TFA4XI0IS.png"
+    },
+    "partial": false,
+    "old_values": [
+     {
+      "acodec": "",
+      "audio_bit_rate": 0,
+      "audio_stream_index": -1,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "channel_layout": 4,
+      "channels": 0,
+      "display_ratio": {
+       "den": 5,
+       "num": 4
+      },
+      "duration": 3600.0,
+      "file_size": "2592000",
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "has_audio": false,
+      "has_single_image": true,
+      "has_video": true,
+      "height": 900,
+      "interlaced_frame": false,
+      "metadata": {},
+      "path": "PERSONAL DOC/1730614366471.jpg",
+      "pixel_format": -1,
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "sample_rate": 0,
+      "top_field_first": true,
+      "type": "QtImageReader",
+      "vcodec": "",
+      "video_bit_rate": 0,
+      "video_length": "108000",
+      "video_stream_index": -1,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "width": 720,
+      "media_type": "image",
+      "id": "SLB9XWNZDX"
+     },
+     {
+      "acodec": "",
+      "audio_bit_rate": 0,
+      "audio_stream_index": -1,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "channel_layout": 4,
+      "channels": 0,
+      "display_ratio": {
+       "den": 5,
+       "num": 4
+      },
+      "duration": 3600.0,
+      "file_size": "2592000",
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "has_audio": false,
+      "has_single_image": true,
+      "has_video": true,
+      "height": 900,
+      "interlaced_frame": false,
+      "metadata": {},
+      "path": "PERSONAL DOC/1730614370017.jpg",
+      "pixel_format": -1,
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "sample_rate": 0,
+      "top_field_first": true,
+      "type": "QtImageReader",
+      "vcodec": "",
+      "video_bit_rate": 0,
+      "video_length": "108000",
+      "video_stream_index": -1,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "width": 720,
+      "media_type": "image",
+      "id": "EJEMKZRH65"
+     },
+     {
+      "acodec": "",
+      "audio_bit_rate": 0,
+      "audio_stream_index": -1,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "channel_layout": 4,
+      "channels": 0,
+      "display_ratio": {
+       "den": 16,
+       "num": 9
+      },
+      "duration": 3600.0,
+      "file_size": "2286144",
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "has_audio": false,
+      "has_single_image": true,
+      "has_video": true,
+      "height": 1008,
+      "interlaced_frame": false,
+      "metadata": {},
+      "path": "PERSONAL DOC/5d3f0735e0724cd5ab0e6ce5fb10e070_1734039761650.jpg",
+      "pixel_format": -1,
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "sample_rate": 0,
+      "top_field_first": true,
+      "type": "QtImageReader",
+      "vcodec": "",
+      "video_bit_rate": 0,
+      "video_length": "108000",
+      "video_stream_index": -1,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "width": 567,
+      "media_type": "image",
+      "id": "00WBHGS25O"
+     }
+    ]
+   },
+   {
+    "type": "insert",
+    "key": [
+     "markers"
+    ],
+    "value": {
+     "position": 0.2,
+     "icon": "blue.png",
+     "id": "VF709M1MBY"
+    },
+    "partial": false,
+    "old_values": [
+     {
+      "position": 0.0,
+      "icon": "blue.png",
+      "id": "NGX7DG18Y9"
+     }
+    ]
+   },
+   {
+    "type": "insert",
+    "key": [
+     "markers"
+    ],
+    "value": {
+     "position": 0.2,
+     "icon": "blue.png",
+     "id": "F1MVO757UB"
+    },
+    "partial": false,
+    "old_values": [
+     {
+      "position": 0.0,
+      "icon": "blue.png",
+      "id": "NGX7DG18Y9"
+     },
+     {
+      "position": 0.2,
+      "icon": "blue.png",
+      "id": "VF709M1MBY"
+     }
+    ]
+   },
+   {
+    "type": "insert",
+    "key": [
+     "markers"
+    ],
+    "value": {
+     "position": 0.2,
+     "icon": "blue.png",
+     "id": "2JXIM8EO0S"
+    },
+    "partial": false,
+    "old_values": [
+     {
+      "position": 0.0,
+      "icon": "blue.png",
+      "id": "NGX7DG18Y9"
+     },
+     {
+      "position": 0.2,
+      "icon": "blue.png",
+      "id": "VF709M1MBY"
+     },
+     {
+      "position": 0.2,
+      "icon": "blue.png",
+      "id": "F1MVO757UB"
+     }
+    ]
+   },
+   {
+    "type": "insert",
+    "key": [
+     "markers"
+    ],
+    "value": {
+     "position": 0.2,
+     "icon": "blue.png",
+     "id": "E0KFI4IVJI"
+    },
+    "partial": false,
+    "old_values": [
+     {
+      "position": 0.0,
+      "icon": "blue.png",
+      "id": "NGX7DG18Y9"
+     },
+     {
+      "position": 0.2,
+      "icon": "blue.png",
+      "id": "VF709M1MBY"
+     },
+     {
+      "position": 0.2,
+      "icon": "blue.png",
+      "id": "F1MVO757UB"
+     },
+     {
+      "position": 0.2,
+      "icon": "blue.png",
+      "id": "2JXIM8EO0S"
+     }
+    ]
+   },
+   {
+    "type": "insert",
+    "key": [
+     "markers"
+    ],
+    "value": {
+     "position": 0.2,
+     "icon": "blue.png",
+     "id": "QXWQHL04N9"
+    },
+    "partial": false,
+    "old_values": [
+     {
+      "position": 0.0,
+      "icon": "blue.png",
+      "id": "NGX7DG18Y9"
+     },
+     {
+      "position": 0.2,
+      "icon": "blue.png",
+      "id": "VF709M1MBY"
+     },
+     {
+      "position": 0.2,
+      "icon": "blue.png",
+      "id": "F1MVO757UB"
+     },
+     {
+      "position": 0.2,
+      "icon": "blue.png",
+      "id": "2JXIM8EO0S"
+     },
+     {
+      "position": 0.2,
+      "icon": "blue.png",
+      "id": "E0KFI4IVJI"
+     }
+    ]
+   },
+   {
+    "type": "insert",
+    "key": [
+     "markers"
+    ],
+    "value": {
+     "position": 0.2,
+     "icon": "blue.png",
+     "id": "BIQCZK1ZRY"
+    },
+    "partial": false,
+    "old_values": [
+     {
+      "position": 0.0,
+      "icon": "blue.png",
+      "id": "NGX7DG18Y9"
+     },
+     {
+      "position": 0.2,
+      "icon": "blue.png",
+      "id": "VF709M1MBY"
+     },
+     {
+      "position": 0.2,
+      "icon": "blue.png",
+      "id": "F1MVO757UB"
+     },
+     {
+      "position": 0.2,
+      "icon": "blue.png",
+      "id": "2JXIM8EO0S"
+     },
+     {
+      "position": 0.2,
+      "icon": "blue.png",
+      "id": "E0KFI4IVJI"
+     },
+     {
+      "position": 0.2,
+      "icon": "blue.png",
+      "id": "QXWQHL04N9"
+     }
+    ]
+   }
+  ],
+  "redo": []
+ },
+ "version": {
+  "openshot-qt": "2.6.1",
+  "libopenshot": "0.2.7"
+ }
+}
